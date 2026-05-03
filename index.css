@@ -5,24 +5,24 @@
 
 /* ---------- CSS VARIABLES ---------- */
 :root {
-    --bg-primary: #0a0f1c;
-    --bg-secondary: #111827;
-    --bg-card: rgba(17, 24, 39, 0.7);
-    --bg-card-hover: rgba(25, 35, 60, 0.85);
-    --bg-glass: rgba(255, 255, 255, 0.03);
+    --bg-primary: #0a0a0a;
+    --bg-secondary: #121212;
+    --bg-card: rgba(18, 18, 18, 0.8);
+    --bg-card-hover: rgba(26, 26, 26, 0.9);
+    --bg-glass: rgba(255, 255, 255, 0.02);
 
-    --text-primary: #f1f5f9;
-    --text-secondary: #94a3b8;
-    --text-muted: #64748b;
+    --text-primary: #ffffff;
+    --text-secondary: #b0b0b0;
+    --text-muted: #757575;
 
-    --accent-1: #6c5ce7;
-    --accent-2: #a855f7;
-    --accent-3: #7c3aed;
-    --gradient-accent: linear-gradient(135deg, #6c5ce7, #a855f7);
-    --gradient-accent-h: linear-gradient(135deg, #a855f7, #6c5ce7);
+    --accent-1: #00d4ff;
+    --accent-2: #00e5ff;
+    --accent-3: #00c9ff;
+    --gradient-accent: linear-gradient(135deg, #00d4ff, #00e5ff);
+    --gradient-accent-h: linear-gradient(135deg, #00e5ff, #00d4ff);
 
-    --border-color: rgba(108, 92, 231, 0.15);
-    --border-glow: rgba(168, 85, 247, 0.4);
+    --border-color: rgba(0, 212, 255, 0.15);
+    --border-glow: rgba(0, 212, 255, 0.3);
 
     --shadow-sm: 0 2px 8px rgba(0,0,0,0.3);
     --shadow-md: 0 8px 32px rgba(0,0,0,0.4);
